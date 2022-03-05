@@ -1,0 +1,26 @@
+{
+    "name": "tsukiroku",
+    "displayName": "tsukiroku",
+    "description": "dark/white based theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "tsukiroku dark",
+                "uiTheme": "vs-dark",
+                "path": "./theme/dark.json"
+            },
+            {
+                "label": "tsukiroku white",
+                "uiTheme": "vs",
+                "path": "./theme/white.json"
+            }
+        ]
+    }
+}
