@@ -14,12 +14,12 @@
             {
                 "label": "tsukiroku dark",
                 "uiTheme": "vs-dark",
-                "path": "./theme/dark.json"
+                "path": "./theme/dark-color-theme.json"
             },
             {
                 "label": "tsukiroku white",
                 "uiTheme": "vs",
-                "path": "./theme/white.json"
+                "path": "./theme/dark-color-theme.json"
             }
         ]
     }
