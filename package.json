@@ -3,6 +3,7 @@
     "displayName": "tsukiroku",
     "description": "dark based theme",
     "version": "0.0.1",
+    "repository": "https://github.com/tsukiroku/vscode-theme",
     "engines": {
         "vscode": "^1.65.0"
     },
