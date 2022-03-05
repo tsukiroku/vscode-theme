@@ -1,7 +1,7 @@
 {
     "name": "tsukiroku",
     "displayName": "tsukiroku",
-    "description": "dark/white based theme",
+    "description": "dark based theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "tsukiroku dark",
+                "label": "tsukiroku",
                 "uiTheme": "vs-dark",
                 "path": "./theme/dark-color-theme.json"
             },
