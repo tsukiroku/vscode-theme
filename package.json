@@ -2,7 +2,7 @@
     "name": "tsukiroku",
     "displayName": "tsukiroku",
     "description": "dark based theme",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "repository": "https://github.com/tsukiroku/vscode-theme",
     "publisher": "tsukiroku",
     "engines": {
